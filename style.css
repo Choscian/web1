@@ -30,13 +30,13 @@ body {
 }
 
 .container > div:nth-child(1) {
-    background: url('https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&h=350');
+    background: url('https://pre00.deviantart.net/166b/th/pre/f/2012/189/5/9/birdq_flying_on_the_sky_wallpaper_1920x1080_hd_by_yattamigeru-d56fo29.png');
     background-size: cover;
     background-position: center;
 }
 
 .container > div:nth-child(2) {
-    background: url('https://cdn.pixabay.com/photo/2017/08/04/10/36/background-2579719_960_720.jpg');
+    background: url('https://data.whicdn.com/images/234726198/large.jpg');
     background-size: cover;
     background-position: center;
 }
