@@ -29,6 +29,10 @@ body {
     color: rgba(255, 255, 255, 0.5);
 }
 
+.container > div > div {
+    border-bottom: 1px solid white;
+}
+
 .container > div:nth-child(1) {
     background: url('https://pre00.deviantart.net/166b/th/pre/f/2012/189/5/9/birdq_flying_on_the_sky_wallpaper_1920x1080_hd_by_yattamigeru-d56fo29.png');
     background-size: cover;
@@ -55,6 +59,24 @@ body {
 
 .container > div:nth-child(5) {
     background: url('https://i.pinimg.com/originals/ca/6d/49/ca6d49824901d1c7a1b3a2f7014005df.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.container > div:nth-child(6) {
+    background: url('http://thumb.pann.com/tc_480/http://fimg4.pann.com/new/download.jsp?FileID=37231446');
+    background-size: cover;
+    background-position: center;
+}
+
+.container > div:nth-child(7) {
+    background: url('https://scontent-atl3-1.cdninstagram.com/vp/8e09f3a6c5d6e851dde1e06b4e411f29/5B7EE856/t51.2885-15/e35/31184225_1989574587971819_8486186019127820288_n.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.container > div:nth-child(8) {
+    background: url('https://data.whicdn.com/images/268481253/large.jpg');
     background-size: cover;
     background-position: center;
 }
