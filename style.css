@@ -9,6 +9,19 @@ body {
 
 .container > div {
     width: 25%;
-    height: 
+    height: 25vw;
     flex-shrink: 0;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.container > div:nth-child(1) {
+    background: url('https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&h=350');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
 }
